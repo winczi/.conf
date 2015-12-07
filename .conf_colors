@@ -1,4 +1,4 @@
-#An extravagent PS1 http://blog.bigdinosaur.org/easy-ps1-colors/
+# An extravagent PS1 http://blog.bigdinosaur.org/easy-ps1-colors/
 function prompt {
   # 30m - Black
   # 31m - Red
